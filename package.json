@@ -4,7 +4,7 @@
     "description": "Color theme for VS Code, based on Oceanic Next and Subliminal.",
     "author": "Aleksandar Stojanoski",
     "publisher": "acestojanoski",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/acestojanoski/ace-dark.git"
