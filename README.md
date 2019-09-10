@@ -2,6 +2,8 @@
 
 **Ace Dark** is a color theme for VS Code based on [Oceanic Next](https://github.com/mhartington/vscode-oceanicnext) and [Subliminal](https://github.com/gaearon/subliminal).
 
+### Marketplace: https://marketplace.visualstudio.com/items?itemName=acestojanoski.ace-dark
+
 ## Screenshots
 
 ![Screenshot](screenshots/Selection_001.png)
