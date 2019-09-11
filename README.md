@@ -20,7 +20,7 @@ Add this configuration to you VS Code `settings.json` file:
 
     "workbench.colorTheme": "Ace Dark",
     "editor.fontSize": 16,
-    "editor.folding": true,
+    "editor.folding": false,
     "editor.hideCursorInOverviewRuler": true,
     "editor.lineHeight": 26,
     "editor.lineNumbers": "on",
@@ -34,7 +34,9 @@ Add this configuration to you VS Code `settings.json` file:
     "workbench.activityBar.visible": false,
     "workbench.iconTheme": null,
     "workbench.editor.showIcons": false,
-    "workbench.statusBar.visible": true
+    "workbench.statusBar.visible": false,
+    "breadcrumbs.enabled": false,
+    "window.menuBarVisibility": "toggle"
 
     ...
 }
