@@ -4,7 +4,7 @@
     "description": "Color theme for VS Code, based on Oceanic Next and Subliminal.",
     "author": "Aleksandar Stojanoski",
     "publisher": "acestojanoski",
-    "version": "0.0.4",
+    "version": "0.1.0",
     "icon": "screenshots/Selection_001.png",
     "repository": {
         "type": "git",

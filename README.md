@@ -1,8 +1,16 @@
 # Ace Dark
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/acestojanoski.ace-dark.svg)](https://marketplace.visualstudio.com/items?itemName=acestojanoski.ace-dark)
+[![Downloads](https://img.shields.io/vscode-marketplace/d/acestojanoski.ace-dark.svg)](https://marketplace.visualstudio.com/items?itemName=acestojanoski.ace-dark)  
+
 **Ace Dark** is a color theme for VS Code based on [Oceanic Next](https://github.com/mhartington/vscode-oceanicnext) and [Subliminal](https://github.com/gaearon/subliminal). Please see the [Credits](#credits) section.
 
-### Marketplace: https://marketplace.visualstudio.com/items?itemName=acestojanoski.ace-dark
+## Content
+*   [Screenshots](#Screenshots)
+*   [settings.json](#settings.json)
+*   [Credits](#Credits)
+*   [Changelog](./CHANGELOG.md)
+*   [Licence](./LICENSE)
 
 ## Screenshots
 
@@ -46,8 +54,10 @@ Add this configuration to you VS Code `settings.json` file:
 
 I forked [Oceanic Next](https://github.com/mhartington/vscode-oceanicnext) and [Subliminal](https://github.com/gaearon/subliminal) which are based on other themes, and combined them to create a theme to fit my own needs. All credits goes to [Dan Abramov](https://github.com/gaearon) and [Mike Hartington](https://github.com/mhartington) for creating these beautiful themes.
 
+## [CHANGELOG](./CHANGELOG.md)
+
 ## Licence
-MIT
+[MIT](./LICENSE)
 
 
-**Enjoy!**
+### **Enjoy!**
